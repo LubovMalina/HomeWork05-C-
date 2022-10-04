@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.AssemblyInfo.cs
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\bin\Debug\net6.0\HomeWork02.exe
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\bin\Debug\net6.0\HomeWork02.deps.json
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\bin\Debug\net6.0\HomeWork02.runtimeconfig.json
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\bin\Debug\net6.0\HomeWork02.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\bin\Debug\net6.0\HomeWork02.pdb
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\refint\HomeWork02.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.pdb
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\HomeWork02.genruntimeconfig.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\HomeWork5\HomeWork02\obj\Debug\net6.0\ref\HomeWork02.dll
